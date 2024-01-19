@@ -7,7 +7,7 @@
             var email = document.getElementById("email").value;
 
             // Create alert message
-            var message = "User Details:\n\n";
+            var message = "";
             message += "First Name: " + firstName + "\n";
             message += "Last Name: " + lastName + "\n";
             message += "Phone Number: " + phoneNumber + "\n";
